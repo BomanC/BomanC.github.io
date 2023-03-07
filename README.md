@@ -4,7 +4,6 @@
 <meta charset="utf-8">
 <title>CSS Basics</title>
 <style>
-body {color: blue}
 </style>
 </head>
 <body>
