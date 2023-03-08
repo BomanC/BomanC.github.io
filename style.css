@@ -18,3 +18,8 @@ a {font-size: 16px;}
 
 ol{text-align: center;}
 ul{text-align: center;}
+
+#wrapper {
+    background-color: antiquewhite;
+margin-right: auto;
+margin-left: auto;}
