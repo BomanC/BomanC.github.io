@@ -27,11 +27,11 @@ div{color: whitesmoke;}
 a {font-size: 16px;}
 
 ol{text-align: center;
-color: #C9A9A6;}
+color: whitesmoke;}
 ul{text-align: center;
-color: #C9A9A6;}
+color: whitesmoke;}
 
 #wrapper {
-    background-color: whitesmoke;
+    background-color: #C9A9A6;
 margin-right: auto;
 margin-left: auto;}
