@@ -26,9 +26,11 @@ div{color: whitesmoke;}
 
 a {font-size: 16px;}
 
-ol{text-align: center;
+ol{align-items: center;
+    text-align: center;
 color: whitesmoke;}
-ul{text-align: center;
+ul{align-items: center;
+    text-align: center;
 color: whitesmoke;}
 
 #wrapper {color: whitesmoke;
