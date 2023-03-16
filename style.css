@@ -12,9 +12,14 @@ text-align: center;
 background-color: whitesmoke ;
 color: #C9A9A6;}
 
-h2 {float: right;}
+h2 {float: right;
+margin-right: auto;
+text-align: center;}
 
-p {background-color: #C9A9A6;
+p {float: right;
+    margin-right: auto;
+    text-align: center;
+    background-color: #C9A9A6;
 color: whitesmoke;
 font-size: 16px;}
 
