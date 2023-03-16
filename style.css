@@ -39,7 +39,8 @@ margin-left: auto;}
 {color: black;}
 
 #footer
-{color: black;}
+{color: black;
+padding-top: 10px;}
 
 .companyname
 {font-size: larger;}
