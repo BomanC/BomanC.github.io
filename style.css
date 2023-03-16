@@ -1,7 +1,6 @@
 body{background-color:#C9A9A6 ;
 color: whitesmoke;
-font-size: 16px;
-text-align: center;}
+font-size: 16px;}
 
  h1 {font-size: 35px;
 padding: 15px;}
@@ -13,12 +12,9 @@ background-color: whitesmoke ;
 color: #C9A9A6;
 padding: 10px;}
 
-h2 {margin-right: auto;
-    text-align: center;}
+h2
 
-p {margin-left: auto;
-    text-align: center;
-background-color: #C9A9A6;
+p {background-color: #C9A9A6;
 color: whitesmoke;
 font-size: 16px;}
 
@@ -26,12 +22,8 @@ div{color: whitesmoke;}
 
 a {font-size: 16px;}
 
-ol{align-items: center;
-    text-align: center;
-color: whitesmoke;}
-ul{align-items: center;
-    text-align: center;
-color: whitesmoke;}
+ol{color: whitesmoke;}
+ul{color: whitesmoke;}
 
 #wrapper {color: whitesmoke;
 margin-right: auto;
