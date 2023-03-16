@@ -16,10 +16,7 @@ h2 {float: right;
 margin-right: auto;
 text-align: center;}
 
-p {float: right;
-    margin-right: auto;
-    text-align: center;
-    background-color: #C9A9A6;
+p {background-color: #C9A9A6;
 color: whitesmoke;
 font-size: 16px;}
 
