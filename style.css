@@ -6,7 +6,8 @@ body {
 
 #wrapper{;}
 
-#nav ul {list-style-type: none;
+#nav ul {
+    list-style-type: none;
 }
 
 aside {
@@ -14,12 +15,21 @@ aside {
     padding-right: 20%;
 }
 
-ul {}
+ul {list-style-type: none;
+}
+#feature {font-family: cursive;}
 
 ol {}
 
-section {}
+section {
+    float: left;
+    padding: 20%;
+text-align: center;}
 
-article {}
-
-footer {}
+article {
+    float: left;
+    padding: 20%;
+}
+footer{text-align: center;
+    
+}
