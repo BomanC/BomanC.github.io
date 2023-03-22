@@ -4,9 +4,10 @@ body {
 
 }
 
-#wrapper{}
+#wrapper{;}
 
-#nav {}
+#nav ul {list-style-type: none;
+}
 
 aside {
     float: right;
