@@ -16,7 +16,10 @@ aside {
     padding-right: 20%;
 }
 
-ul {list-style-type: none;
+ul {list-style-type: none;}
+
+#experience {position: absolute;
+}
 
 }
 #feature {font-family: cursive;
