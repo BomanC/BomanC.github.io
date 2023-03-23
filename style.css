@@ -25,13 +25,10 @@ ol {}
 
 section {
     float: left;
-    padding: 20%;
-text-align: center;}
+    padding: 20%;}
 
 article {
     float: left;
     padding: 20%;
 }
-footer{text-align: center;
-    
-}
+footer
