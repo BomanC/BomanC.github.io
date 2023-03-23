@@ -1,5 +1,5 @@
 body {
-    background-color: #c9a9a6;
+    background-color: grey;
     color: whitesmoke;
 
 }
@@ -9,21 +9,21 @@ h1 {text-align: center}
 #nav ul {
     list-style-type: none;
     text-align: center;
+    padding-left: 50%;
 }
 
 aside {
     float: right;
-    padding-right: 20%;
-}
+    padding-right: 20%;}
 
 ul {list-style-type: none;}
 
 
 section {
     float: left;
-    padding: 20%;}
+padding-left: 20%;}
+
 
 article {
     float: left;
-    padding: 20%;
-}
+padding-left: 20%;}
