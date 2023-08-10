@@ -1,14 +1,14 @@
 body {
     background-color: lightgray;
-    color: whitesmoke;
+    color: whitesmoke;}
 
-}
+
 h1 {text-align: center}
 
 
-#nav ul {
-    list-style-type: none;
-    padding-left: 50%;
+#nav 
+{list-style-type: none;
+    text-align: center;
 }
 
 aside {
