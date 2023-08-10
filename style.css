@@ -8,10 +8,17 @@ nav {text-align: center;
 color: blue;
 background-color: aqua;}
 
-.Skills{background-color: white;
+.Skills{text-align: left;
+    background-color: white;
     width: 200;
     height: 100;
     padding: 10px;
 }
+
+.experience {align-content: center;
+background-color: white;
+width: 200;
+height: 100;
+padding: 10px;}
 
 footer {text-align: center;}
