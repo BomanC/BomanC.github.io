@@ -9,6 +9,7 @@ color: blue;
 background-color: aqua;}
 
 .Skills{text-align: left;
+    color: blueviolet;
     background-color: white;
     width: 200;
     height: 100;
@@ -16,6 +17,7 @@ background-color: aqua;}
 }
 
 .experience {align-content: center;
+    color: greenyellow;
 background-color: white;
 width: 200;
 height: 100;
