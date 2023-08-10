@@ -9,6 +9,9 @@ color: blue;
 background-color: aqua;}
 
 h2{background-color: white;
+    width: 200;
+    height: 100;
+    padding: 10px;
 }
 
 footer {text-align: center;}
