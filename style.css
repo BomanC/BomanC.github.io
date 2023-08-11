@@ -8,7 +8,7 @@ nav {text-align: center;
 color: blue;
 border-style: groove;}
 
-.Skills{text-align: left;
+.aside{text-align: left;
     color: black;
     background-color: white;
     border-style: solid;
@@ -17,7 +17,7 @@ border-style: groove;}
     padding: 10px;
 }
 
-.experience {align-content: center;
+.section {align-content: center;
     color: greenyellow;
 background-color: white;
 width: 200;
