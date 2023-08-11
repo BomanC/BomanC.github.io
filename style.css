@@ -4,29 +4,28 @@ color: whitesmoke;}
 header {text-align: center;
 color: whitesmoke;}
 
-nav {text-align: center;
-border-style: groove;}
+nav {text-align: center;}
 #links {color: blueviolet;}
 
-.aside{text-align: justify;
+aside{text-align: justify;
     color: black;
     background-color: white;
-    border-style: groove;
+    position: absolute;
     width: 200;
     height: 100;
     padding: 10px;
 }
 
-.section {text-align: justify;
+section {text-align: justify;
     color: greenyellow;
 background-color: white;
-border-style: groove;
+position: absolute;
 width: 200;
 height: 100;
 padding: 10px;}
 
-.article {}
+article {position: absolute;}
 
 footer {text-align: center;}
 
-.Email {color: whitesmoke;}
+Email {color: whitesmoke;}
