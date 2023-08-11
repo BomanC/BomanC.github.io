@@ -2,24 +2,25 @@ body {background-color: black;
 color: whitesmoke;}
 
 header {text-align: center;
-color: green;}
+color: whitesmoke;}
 
 nav {text-align: center;
-color: blue;
 border-style: groove;}
+#links {color: blueviolet;}
 
-.aside{text-align: left;
+.aside{text-align: justify;
     color: black;
     background-color: white;
-    border-style: solid;
+    border-style: groove;
     width: 200;
     height: 100;
     padding: 10px;
 }
 
-.section {align-content: center;
+.section {text-align: justify;
     color: greenyellow;
 background-color: white;
+border-style: groove;
 width: 200;
 height: 100;
 padding: 10px;}
