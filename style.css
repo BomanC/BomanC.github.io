@@ -7,17 +7,23 @@ header {
     color: whitesmoke;
 }
 
-nav {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     background-color: beige;
-    text-align: center;
-    display: block;
     width: 25%;
+    text-align: center;
     height: 100%; /*Full height*/
-    overflow: auto;
     position: fixed;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none
 }
 
 footer {
