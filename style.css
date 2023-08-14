@@ -1,12 +1,20 @@
-body {background-color: black;}
+body {
+    background-color: black;
+}
 
-header {text-align: center;
-color: whitesmoke;}
+header {
+    text-align: center;
+    color: whitesmoke;
+}
 
-nav {text-align: center;}
-#links {color: blueviolet;}
+nav {
+    text-align: center;
+    display: block;
+    width: 60px;
+}
 
-aside{text-align: justify;
+aside{
+    text-align: justify;
     color: black;
     background-color: white;
     position: absolute;
@@ -15,16 +23,24 @@ aside{text-align: justify;
     padding: 10px;
 }
 
-section {text-align: justify;
+section {
+    text-align: justify;
     color: greenyellow;
-background-color: white;
-position: absolute;
-width: 200;
-height: 100;
-padding: 10px;}
+    background-color: white;
+    position: absolute;
+    width: 200;
+    height: 100;
+    padding: 10px;
+}
 
-article {position: absolute;}
+article {
+    position: absolute;
+}
 
-footer {text-align: center;}
+footer {
+    text-align: center;
+}
 
-Email {color: whitesmoke;}
+Email {
+    color: whitesmoke;
+}
