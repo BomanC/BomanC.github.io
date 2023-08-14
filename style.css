@@ -23,6 +23,7 @@ ul {
     height: 100%; /*Full height*/
     position: fixed;
     overflow: auto;
+    z-index: 1;
 }
 
 li a {
