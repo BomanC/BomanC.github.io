@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: pink;
+    background-color: whitesmoke;
     text-align: center;
     font-size: large;
 }
@@ -33,7 +33,7 @@ li a {
 }
 
 article {
-    background-color: blue;
+    background-color: whitesmoke;
     padding-left: 30%;
 }
 
