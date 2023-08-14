@@ -35,15 +35,14 @@ li a {
 article {
     flex: 3;
     background-color: pink;
-    box-sizing: border-box;
     position: absolute;
+    left: 75%;
 }
 
 
 
 footer {
     background-color: whitesmoke;
-    box-sizing: border-box;
     text-align: center;
     position: absolute;
 }
