@@ -22,7 +22,6 @@ ul {
     text-align: center;
     height: 100%; /*Full height*/
     position: fixed;
-    overflow: auto;
     z-index: 1;
 }
 
@@ -37,6 +36,7 @@ article {
     flex: 3;
     background-color: pink;
     padding-left: 25%;
+    position: absolute;
 }
 
 
@@ -46,4 +46,5 @@ footer {
     padding-left: 25%;
     text-align: center;
     color: white;
+    position: absolute;
 }
