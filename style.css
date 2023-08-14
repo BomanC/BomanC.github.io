@@ -9,7 +9,6 @@ body {
 
 header {
     background-color: aqua;
-    text-align: center;
     color: whitesmoke;
     padding-left: 25%;
 }
@@ -36,14 +35,14 @@ li a {
 article {
     flex: 3;
     background-color: pink;
-    padding: 10px;
+    padding-left: 25%;
 }
 
 
 
 footer {
     background-color: blue;
-    padding: 10px;
+    padding-left: 25%;
     text-align: center;
     color: white;
 }
