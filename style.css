@@ -21,7 +21,7 @@ ul {
     background-color: beige;
     width: 25%;
     text-align: center;
-    height: 100%; /*Full height*/
+    height: 100%;
     position: fixed;
     z-index: 1;
 }
@@ -33,7 +33,7 @@ li a {
 }
 
 article {
-    background-color: pink;
+    background-color: blue;
     padding-left: 25%;
 }
 
