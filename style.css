@@ -1,8 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
+    background-color: aqua;
     text-align: center;
     color: whitesmoke;
     padding-left: 25%;
@@ -27,8 +33,17 @@ li a {
     text-decoration: none
 }
 
-footer {
-    text-align: center;
-    clear: both;
+article {
+    flex: 3;
+    background-color: pink;
+    padding: 10px;
+}
 
+
+
+footer {
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    color: white;
 }
