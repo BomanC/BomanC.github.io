@@ -5,12 +5,13 @@
 body {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
 }
 
 header {
-    background-color: aqua;
-    color: whitesmoke;
-    padding-left: 25%;
+    background-color: pink;
+    text-align: center;
+    font-size: large;
 }
 
 ul {
@@ -27,7 +28,6 @@ ul {
 
 li a {
     display: block;
-    color: black;
     padding: 10px 20px;
     text-decoration: none
 }
@@ -35,16 +35,15 @@ li a {
 article {
     flex: 3;
     background-color: pink;
-    padding-left: 25%;
+    box-sizing: border-box;
     position: absolute;
 }
 
 
 
 footer {
-    background-color: blue;
-    padding-left: 25%;
+    background-color: whitesmoke;
+    box-sizing: border-box;
     text-align: center;
-    color: white;
     position: absolute;
 }
