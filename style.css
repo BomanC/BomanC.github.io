@@ -29,8 +29,6 @@ li a {
 
 footer {
     text-align: center;
-}
+    clear: both;
 
-Email {
-    color: whitesmoke;
 }
