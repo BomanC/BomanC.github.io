@@ -20,27 +20,6 @@ nav {
     position: fixed;
 }
 
-aside{
-    text-align: justify;
-    color: black;
-    background-color: white;
-    width: 200;
-    height: 100;
-    padding: 10px;
-}
-
-section {
-    text-align: justify;
-    color: greenyellow;
-    background-color: white;
-    width: 200;
-    height: 100;
-    padding: 10px;
-}
-
-article {
-}
-
 footer {
     text-align: center;
 }
