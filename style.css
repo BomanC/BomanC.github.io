@@ -8,10 +8,14 @@ header {
 }
 
 nav {
-    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: beige;
     display: block;
-    width: 60px;
-    height: 100%;
+    width: 25%;
+    height: 100%; /*Full height*/
+    position: fixed;
 }
 
 aside{
