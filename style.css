@@ -143,7 +143,7 @@ body {
     width: calc(100%-115px);
 }
 
-.resume_wrapper .resume_right .resume_data .year:before{
+.resume_wrapper .resume_right .resume_data .year::before{
     content: "";
     position: absolute;
     top: 5px;
@@ -155,7 +155,7 @@ body {
     border-radius: 50%;
 }
 
-.resume_wrapper .resume_right .resume_data .year:after{
+.resume_wrapper .resume_right .resume_data .year::after{
     content: "";
     position: absolute;
     top: 17px;
@@ -165,7 +165,7 @@ body {
     background: #26252d;
 }
 
-.resume_wrapper .resume_right .resume_data:last-child .year:after{
+.resume_wrapper .resume_right .resume_data:last-child .year::after{
     display: none;
 }
 
@@ -176,7 +176,9 @@ body {
 }
 
 .resume_wrapper .resume_right .resume_interests .interests .int_icon{
-
+    font-size: 38px;
+    color: #26252d;
+    margin-bottom: 10px;
 }
 
 @media screen and (max-widht: 800px) {
