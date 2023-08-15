@@ -186,5 +186,14 @@ body {
     .resume_wrapper .resume_left .resume_namerole{
         display: block;
     }
+    .resume_wrapper{
+        width: 95%;
+        margin: 10px auto;
+        flex-direction: column;
+    }
+    .resume_wrapper .resume_left,
+    .resume_wrapper .resume_right{
+        width: 100%;
+    }
 }
     
