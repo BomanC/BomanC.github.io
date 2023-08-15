@@ -61,7 +61,7 @@ body {
 }
 
 .resume_wrapper .resume_left .resume_namerole{
-
+    display: none;
 }
 
 .resume_wrapper .resume_namerole .name{
@@ -179,5 +179,12 @@ body {
 
 }
 
-
+@media screen and (max-widht: 800px;) {
+    .resume_wrapper .resume_right .resume_namerole{
+        display: none;
+    }
+    .resume_wrapper .resume_left .resume_namerole{
+        display: block;
+    }
+}
     
