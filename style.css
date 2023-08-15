@@ -141,7 +141,6 @@ body {
     padding-left: 35px;
     margin-bottom: 20px;
     width: calc(100%-115px);
-    text-align: center;
 }
 
 .resume_wrapper .resume_right .resume_data .year:before{
