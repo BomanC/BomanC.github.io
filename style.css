@@ -210,5 +210,16 @@ body {
         width: 100%;
         color: #deb887;
     }
+    .resume_wrapper .resume_right .resume_data .year::before,
+    .resume_wrapper .resume_right .resume_data .year::after{
+        display: none;
+    }
+    .resume_wrapper .resume_right .resume_data .content{
+        width: 100%;
+        padding: 0;
+    }
+    .resume_wrapper .resume_right .interests .int_icon{
+        font-size: 24px;
+    }
 }
     
