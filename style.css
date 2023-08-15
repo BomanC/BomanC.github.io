@@ -179,7 +179,7 @@ body {
 
 }
 
-@media screen and (max-widht: 800px;) {
+@media screen and (max-widht: 800px) {
     .resume_wrapper .resume_right .resume_namerole{
         display: none;
     }
@@ -197,9 +197,9 @@ body {
     }
 }
 
-@media screen and (max-widht: 424px;){
+@media screen and (max-widht: 424px){
     .resume_wrapper .resume_right{
-        padding: 20px; 30px
+        padding: 20px 30px;
     }
     .resume_wrapper .resume_right .resume_data{
         flex-direction: column;
